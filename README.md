@@ -9,11 +9,15 @@ Conocer las ventas y sus respectivas transacciones por los siguentes :
 - Edad
 
 ## Análisis
-• Se observa que sin distinción de género los rubros de electrónica y ropa son los que tienen mayor número de transacciones con un 35%.
-![Captura de pantalla 2024-07-19 133330](https://github.com/user-attachments/assets/6c86814f-6607-4f10-8742-b908dd3bcf9a)
+• Se observa que sin distinción de género los rubros de electrónica y ropa son los que tienen mayor número de transacciones con un 35% y en ventas con un 34%.
+
+![Captura de pantalla 2024-07-19 133614](https://github.com/user-attachments/assets/a27afa79-827b-48dc-afc5-3a4a70a355b7)
 
 • Para el género femenino, los rubros antes mencionados en transacciones continua con 35%, pero a total ventas sobresale el rubro de ropa con un 35%.
+![Captura de pantalla 2024-07-19 133753](https://github.com/user-attachments/assets/8fc63f2a-9bd9-4c4b-8b90-4dbcf1fc8012)
+
 • Para el género masculino, se observa que electrónica tiene el 36% en transacciones y en total de ventas, quedando en segundo lugar la ropa.
+![Captura de pantalla 2024-07-19 133917](https://github.com/user-attachments/assets/ef6cc53a-16c7-4eb3-8021-f1e9ff2c4a56)
 
 
 
