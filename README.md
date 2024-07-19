@@ -1,7 +1,7 @@
 # Análisis de Ventas de "La Tienda".
 
 ## Contexto
-Se recibio una base de datos correspondiente a un tienda departamental, donde tiene diversos productos pero en sí se agrupan en 3 grandes rubros, que son Ropa, Belleza y Electrónica. En la información recibida se observo que son el compendio de ventas de un año y hay distinción por género masculino y femenico, así como también por edades y, en este último para cuestiones del análisis se utilizo por rango de edades. 
+Se recibio una base de datos correspondiente a un tienda departamental, donde tiene diversos productos agrupados en 3 grandes rubros, que son Ropa, Belleza y Electrónica. En la información recibida se observo que son el compendio de ventas de un año y hay distinción por género masculino y femenino, así como también por edades y, en este último para cuestiones del análisis se utilizo por rango de edades. 
 
 ## Objetivo
 Conocer las ventas y sus respectivas transacciones por los siguentes :
@@ -31,7 +31,7 @@ Conocer las ventas y sus respectivas transacciones por los siguentes :
 
 ## Conclusiones
 
-El comportamiento de ventas en su primer año de apertura de la tienda ha sido de acuerdo a los pronóstico de venta que habían contemplado inicialmente, se puede observar que el género femenino tiene una inclinación mayor a realizar compras de diferentes productos, y en cambio el género masculino esta más inclinado a lo electrónico, sin embargo, el gap que existe entre ambos es muy minimo, se hubiera esperado una mayor reacción por las ofertas y promociones en los departamentos dedicados a ellas. 
+El comportamiento de ventas en su primer año de apertura de la tienda ha sido de acuerdo al pronóstico de venta que habían contemplado inicialmente, se puede observar que el género femenino tiene una inclinación mayor a realizar compras de diferentes productos, y en cambio el género masculino esta más inclinado a lo electrónico, sin embargo, el gap que existe entre ambos es muy minimo, se hubiera esperado una mayor reacción por las ofertas y promociones en los departamentos dedicados a ellas. 
 
 
 
