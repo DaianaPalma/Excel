@@ -1,4 +1,4 @@
-# Analisis de ventas de "La Tienda".
+# Análisis de ventas de "La Tienda".
 
 ## Contexto
 Se recibio una base de datos correspondiente a un tienda departamental, donde tiene diversos productos pero en sí se agrupan en 3 grandes rubros, que son Ropa, Belleza y Electrónica. En la información recibida se observo que son el compendio de ventas de un año y hay distinción por género masculino y femenico, así como también por edades y, en este último para cuestiones del análisis se utilizo por rango de edades. 
